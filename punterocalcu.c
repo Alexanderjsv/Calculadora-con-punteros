@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "punterocalcu.h"
 
 void suma(float* p1,float* p2,float* r){
     *r=*p1+*p2;
