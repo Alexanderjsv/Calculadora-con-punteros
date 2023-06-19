@@ -17,16 +17,16 @@ int main(void){
     scanf("%f",&b);
 
     suma(p1,p2,r);
-    printf("Suma: %.2f",r);
+    printf("Suma: %f\n",r);
 
     resta(p1,p2,r);
-    printf("Resta: %.2f",r);
+    printf("Resta: %f\n",r);
 
     multi(p1,p2,r);
-    printf("Multi: %.2f",r);
+    printf("Multi: %f\n",r);
 
     div(p1,p2,r);
-    printf("Div: %.2f",r);
+    printf("Div: %f\n",r);
 
 
 }
