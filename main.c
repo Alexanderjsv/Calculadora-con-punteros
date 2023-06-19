@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "punterocalcu.h"
+//#include "punterocalcu.h"
 
 int main(void){
     float a,b,c;
